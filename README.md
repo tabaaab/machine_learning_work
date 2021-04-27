@@ -1,1 +1,1 @@
-# machine_learning_work / charger le fichier sur jupyter ou bien kagglep pour voir le nootbook
+# machine_learning_work / charger le fichier sur jupyter ou bien kaggle pour voir le nootbook
